@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-17_2055",
+    "name": "Mimi_04.11.19",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -51,8 +51,8 @@
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "sitemapSwitcher": false,
-    "siteUrl": "",
+    "sitemapSwitcher": true,
+    "siteUrl": "http://mariesophiesonnleithner.de",
     "sitemapSwitcherAuto": true,
     "cookiesAlert": {
       "customDialogSelector": false,
